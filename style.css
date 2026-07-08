@@ -311,3 +311,12 @@ font-size:18px;
   background-color: #43302E; /* Dark coffee brown from your footer */
   color: #43302E;
 }
+/* ===========================
+   MEDIA 
+=========================== */
+h3,h3{
+
+    text-align:center;
+
+    margin:20px;
+}
